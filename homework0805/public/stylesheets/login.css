@@ -1,0 +1,27 @@
+.wrap{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -150px;
+}
+.phone{
+    width: 250px;
+    height:30px;
+    margin:30px 25px 10px;
+}
+.password{
+    width: 250px;
+    height: 30px;
+    margin: 10px 25px;
+}
+.login{
+    width: 250px;
+    height: 30px;
+    margin: 10px 25px;
+    background-color: green;
+    border: none;
+    color: white;
+}
